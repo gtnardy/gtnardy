@@ -5,6 +5,10 @@
 ![GTNardy's github stats](https://github-readme-stats.vercel.app/api?username=gtnardy&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtnardy&layout=compact&theme=dark)
 
+Hello! I'm Gabriel (sometimes Syed), I study Computer Science at the Federal University of São Carlos, and I'm passionate about game development and high performance techniques. I have great experience with **C++** and passion for techniques and studies of deep **code optimization**.
+
+I've also worked a lot with **Node.js (APIs)**, **Web/Mobile Development** and **Databases (SQL)**. In addition to using (a lot of) scripting languages such as **JavaScript** and **Lua** (the last one managed and integrated natively for use as a modding/scripting tool for *nanos world* game).
+
 ## Portfolio - Game Development
 
 ### Huge Projects
