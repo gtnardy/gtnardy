@@ -2,6 +2,9 @@
 
 # Welcome to my page 👋
 
+![GTNardy's github stats](https://github-readme-stats.vercel.app/api?username=gtnardy&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtnardy&layout=compact&theme=dark)
+
 ## Portfolio - Game Development
 
 ### Huge Projects
