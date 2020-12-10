@@ -1,4 +1,4 @@
-![](https://gtnardy.github.io/img/portfolio/header.jpg)
+![](https://i.imgur.com/r5FN3Wp.png)
 
 # Welcome to my page 👋
 
