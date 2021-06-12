@@ -31,3 +31,5 @@ Currently working on https://github.com/nanos-world.
 - 🤲 [Doe FUMCAD](https://doefumcad.com) An application to make it easier for residents to donate to their city's charitable funds. (**Node.js, Android (Java), HTML, SQL, DevOps**)
 
 ![](https://user-images.githubusercontent.com/6226807/120086179-1aba5f00-c0b4-11eb-98af-af8830c33d9f.png)
+
+![AllUpdates](https://user-images.githubusercontent.com/6226807/121760395-e9ed1780-cb00-11eb-8aa4-952a37760ed2.png)
