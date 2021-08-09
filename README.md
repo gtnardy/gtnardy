@@ -15,8 +15,8 @@ Currently working on https://github.com/nanos-world.
 
 ### Huge Projects
 
-- 📱  [Estação Liberdade](https://gtnardy.itch.io/estacao-liberdade) Developed in 24 hours for a university Game Jam using Free Assets. Played by [Markplier](https://www.youtube.com/watch?v=043Fa0TJGdQ)! (**Unreal Engine 4**)
-- 🌍 [nanos world](https://nanos.world) The next generation multiplayer sandbox game, developers and modders can build their own game upon and to integrate their work in nanos world. (**Unreal Engine 4, C++, Lua, Network, DevOps**)
+- 📱  [Estação Liberdade](https://gtnardy.itch.io/estacao-liberdade) Developed in 24 hours for a university Game Jam using Free Assets. Played by [Markplier](https://www.youtube.com/watch?v=043Fa0TJGdQ)! (**Unreal Engine 4 + Blueprints**)
+- 🌍 [nanos world](https://nanos.world) The next generation multiplayer sandbox game, developers and modders can build their own game upon and to integrate their work in nanos world. (**Unreal Engine 4, C++, Lua Scripting, Low Level Network Implementation, Full DevOps process, Steam SDK Integration, Discord SDK Integration**)
 - 🔥  [Just Cause 3 - Roleplay](https://justcauserp.com) Game Mode developed for Just Cause 3 - Multiplayer. (**JavaScript, Node.js, SQL, HTML, DevOps**)
 
 ### Small Projects
@@ -29,6 +29,9 @@ Currently working on https://github.com/nanos-world.
 ## Portfolio - Software Development
 
 - 🤲 [Doe FUMCAD](https://doefumcad.com) An application to make it easier for residents to donate to their city's charitable funds. (**Node.js, Android (Java), HTML, SQL, DevOps**)
+
+## Work Experiences
+- 💵 [Cash.in](https://www.cashin.com.br/) Work as back-end Node.js developer in a start-up company in the creation and maintenance of services and integrations with external monetary APIs in need of high reliability and security.
 
 ![](https://user-images.githubusercontent.com/6226807/120086179-1aba5f00-c0b4-11eb-98af-af8830c33d9f.png)
 
