@@ -9,7 +9,7 @@ Hello! I'm Gabriel (sometimes Syed), I study Computer Science at the Federal Uni
 
 I've also worked a lot with **Node.js (APIs)**, **Web/Mobile Development** and **Databases (SQL)**. In addition to using (a lot of) scripting languages such as **JavaScript** and **Lua** (the last one managed and integrated natively for use as a modding/scripting tool for *nanos world* game).
 
-Currently working on https://github.com/nanos-world.
+Currently working on https://store.steampowered.com/app/1686450/nanos_world/.
 
 ## Portfolio - Game Development
 
