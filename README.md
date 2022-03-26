@@ -9,14 +9,22 @@ Hello! I'm Gabriel (sometimes Syed), I study Computer Science at the Federal Uni
 
 I've also worked a lot with **Node.js (APIs)**, **Web/Mobile Development** and **Databases (SQL)**. In addition to using (a lot of) scripting languages such as **JavaScript** and **Lua** (the last one managed and integrated natively for use as a modding/scripting tool for *nanos world* game).
 
-Currently working on https://store.steampowered.com/app/1686450/nanos_world/.
+
+### Currently working on **nanos world** - WISHLIST NOW!
+
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/1841660/nanos_world/">
+    <img src="https://user-images.githubusercontent.com/6226807/160233154-5273710f-7a6a-4041-869a-3d8f4777c36e.png" />
+  </a>
+</p>
 
 ## Portfolio - Game Development
 
 ### Huge Projects
 
-- 📱  [Estação Liberdade](https://gtnardy.itch.io/estacao-liberdade) Developed in 24 hours for a university Game Jam using Free Assets. Played by [Markplier](https://www.youtube.com/watch?v=043Fa0TJGdQ)! (**Unreal Engine 4 + Blueprints**)
 - 🌍 [nanos world](https://nanos.world) The next generation multiplayer sandbox game, developers and modders can build their own game upon and to integrate their work in nanos world. (**Unreal Engine 4, C++, Lua Scripting, Low Level Network Implementation, Full DevOps process, Steam SDK Integration, Discord SDK Integration**)
+- 📱  [Estação Liberdade](https://gtnardy.itch.io/estacao-liberdade) Developed in 24 hours for a university Game Jam using Free Assets. Played by [Markplier](https://www.youtube.com/watch?v=043Fa0TJGdQ)! (**Unreal Engine 4 + Blueprints**)
 - 🔥  [Just Cause 3 - Roleplay](https://justcauserp.com) Game Mode developed for Just Cause 3 - Multiplayer. (**JavaScript, Node.js, SQL, HTML, DevOps**)
 
 ### Small Projects
