@@ -12,10 +12,9 @@ I've also worked a lot with **Node.js (APIs)**, **Web/Mobile Development** and *
 
 ### Currently working on **nanos world** - WISHLIST NOW!
 
-
 <p align="center">
   <a href="https://store.steampowered.com/app/1841660/nanos_world/">
-    <img src="https://user-images.githubusercontent.com/6226807/160233154-5273710f-7a6a-4041-869a-3d8f4777c36e.png" />
+    <img src="https://user-images.githubusercontent.com/6226807/179374448-156a8f06-9365-4e44-9a8f-5884dfd57624.png" />
   </a>
 </p>
 
