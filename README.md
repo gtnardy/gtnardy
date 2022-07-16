@@ -14,7 +14,7 @@ I've also worked a lot with **Node.js (APIs)**, **Web/Mobile Development** and *
 
 <p align="center">
   <a href="https://store.steampowered.com/app/1841660/nanos_world/">
-    <img src="https://user-images.githubusercontent.com/6226807/179374448-156a8f06-9365-4e44-9a8f-5884dfd57624.png" />
+    <img src="https://user-images.githubusercontent.com/6226807/178711097-d3e3be2e-a909-4ba0-91b9-3a62d14a7664.png" />
   </a>
 </p>
 
