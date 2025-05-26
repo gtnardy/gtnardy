@@ -22,7 +22,7 @@ I've also worked a lot with **Node.js (APIs)**, **Web/Mobile Development** and *
 
 ### Huge Projects
 
-- 🌍 [nanos world](https://nanos.world) The next generation multiplayer sandbox game, developers and modders can build their own game upon and to integrate their work in nanos world. (**Unreal Engine 4, C++, Lua Scripting, Low Level Network Implementation, Full DevOps process, Steam SDK Integration, Discord SDK Integration**)
+- 🌍 [nanos world](https://nanos.world) The next generation multiplayer sandbox game, developers and modders can build their own game upon and to integrate their work in nanos world. (**Unreal Engine 5, C++, Lua Scripting, Low Level Network Implementation, Full DevOps process, Steam SDK Integration, Discord SDK Integration**)
 - 📱  [Estação Liberdade](https://gtnardy.itch.io/estacao-liberdade) Developed in 24 hours for a university Game Jam using Free Assets. Played by [Markplier](https://www.youtube.com/watch?v=043Fa0TJGdQ)! (**Unreal Engine 4 + Blueprints**)
 - 🔥  [Just Cause 3 - Roleplay](https://github.com/gtnardy/justcause-3-roleplay) Game Mode developed for Just Cause 3 - Multiplayer. (**JavaScript, Node.js, SQL, HTML, DevOps**)
 
